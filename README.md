@@ -6,9 +6,9 @@ I use this space as my personal website. I'm the co-founder and CTO of [Squarede
 
 ## Publications
 - [The importance of Explainable AI in Software 2.0](https://medium.com/squaredev-publications/the-importance-of-explainable-ai-in-software-2-0-e5df4ff1de68)
-- [Developers Day Dec 2018 (video) | Machine Learning: How and why our computers get smarter](https://www.youtube.com/watch?v=G92kGNdotus)
+- [Machine Learning: How and why our computers get smarter | Talk @ Developers Day Dec 2018 (video)](https://www.youtube.com/watch?v=G92kGNdotus)
 
 ## Social
-- 🤓  [Github](https://github.com/momegas)
-- 🤵  [Linkedin](https://www.linkedin.com/in/megaklis-vasilakis/)
-- 📸  [Instagram](https://www.instagram.com/megaklis.vasilakis/)
+- 🤓 [Github](https://github.com/momegas)
+- 🤵 [Linkedin](https://www.linkedin.com/in/megaklis-vasilakis/)
+- 📸 [Instagram](https://www.instagram.com/megaklis.vasilakis/)
