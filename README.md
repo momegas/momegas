@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I use this space as my personal website. I'm the co-founder and CTO of [Squaredev](https://www.squaredev.io/) 🐿️
+I use this space as my personal website. I'm the co-founder & CTO of [Squaredev](https://www.squaredev.io/) 🐿️
 
 ⚡ Fun fact: momegas stands for **monkey megas** and its been my online name since I was 16 🐒
 
