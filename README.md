@@ -9,5 +9,6 @@ I use this space as my personal website. I'm the co-founder and CTO of [Squarede
 - [Developers Day Dec 2018 (video) | Machine Learning: How and why our computers get smarter](https://www.youtube.com/watch?v=G92kGNdotus)
 
 ## Social
-- 📸 [Instagram](https://www.instagram.com/megaklis.vasilakis/)
+- 🤓 [Github](https://github.com/momegas)
 - 🤵 [Linkedin](https://www.linkedin.com/in/megaklis-vasilakis/)
+- 📸 [Instagram](https://www.instagram.com/megaklis.vasilakis/)
