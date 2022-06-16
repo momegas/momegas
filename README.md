@@ -11,6 +11,4 @@ I use this space as my personal website. I'm the co-founder & CTO of [Squaredev]
 - [Machine Learning: How and why our computers get smarter | Talk @ Developers Day Dec 2018 (video)](https://www.youtube.com/watch?v=G92kGNdotus)
 
 ## Social
-- 🤓 [GitHub](https://github.com/momegas)
 - 🤵 [LinkedIn](https://www.linkedin.com/in/megaklis-vasilakis/)
-- 📸 [Instagram](https://www.instagram.com/megaklis.vasilakis/)
