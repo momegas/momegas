@@ -19,7 +19,7 @@ I love cloud, k8s, AI, software and open source. My main languges are Python and
 - [The importance of Explainable AI in Software 2.0](https://medium.com/squaredev-publications/the-importance-of-explainable-ai-in-software-2-0-e5df4ff1de68)
 - [Machine Learning: How and why our computers get smarter | Talk @ Developers Day Dec 2018 (video)](https://www.youtube.com/watch?v=G92kGNdotus)
 
-## Social
+### Social
 - 🍏 [LinkedIn](https://www.linkedin.com/in/megaklis-vasilakis/)
 - 🍒 [Reddit](https://www.reddit.com/user/momegas)
 
