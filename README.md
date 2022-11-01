@@ -22,5 +22,3 @@ I love cloud, k8s, AI, software and open source. My main languges are Python and
 ### Social
 - 🍏 [LinkedIn](https://www.linkedin.com/in/megaklis-vasilakis/)
 - 🍒 [Reddit](https://www.reddit.com/user/momegas)
-
-⚡ Fun fact: momegas stands for **monkey megas** and its been my online name since I was 16 🐒
