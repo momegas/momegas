@@ -5,8 +5,8 @@ This is my space in GitHub. Feel free to look around.
 ### Who am I?
 - 🐿️ Co-founder & CTO of [Squaredev](https://www.squaredev.io/)
 - 💻 Open source maintainer / contributor
-- 🧠 Maintaner: [Explainable-AI](https://github.com/squaredev-io/explainable-ai)
-- 🐻‍❄️ Maintainer: Whitebox (coming soon)
+- 🧠 Maintainer of [Explainable-AI](https://github.com/squaredev-io/explainable-ai)
+- 🐻‍❄️ Maintainer of Whitebox (coming soon)
 
 
 ### Tech I use
