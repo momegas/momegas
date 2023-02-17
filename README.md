@@ -1,20 +1,23 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Megas</h1>
-<h3 align="center">I ❤️ building software that helps people's lives</h3>
+<h2 align="left">Hello 👋, I'm Megaklis Vasilakis the co-founder and CTO of Squaredev. 
+</h1>
 
-- 🔭 I’m the co-founder and CTO of [Squaredev](https://github.com/squaredev-io)
+I work on machine learning engineering, DevOps and software in general. I'm mainly writing python for some years now. Before that, I was a JavaScript / Node.js guy. I also organise an AI meetup in my hometown, Patras.
 
-- 👯 I’m looking to collaborate on [Whitebox](https://github.com/squaredev-io/whitebox)
+I'm working on open source, mainly on Whitebox and Explainable AI repo of Squaredev (links below). Lately I also helped a bit with the Open Assistant project. In have done other OSS work here and there in the past as well.
 
-- 🤝 I’m looking for help with [Whitebox debugging](https://github.com/squaredev-io/whitebox)
+<br>
 
-- 📝 I regularly write articles on [https://medium.com/@megaklis.vasilakis](https://medium.com/@megaklis.vasilakis)
+💬 Ask me anything about DevOps, MLOps, AI/ML, APIs, Kubernetes.
 
-- 💬 Ask me about **DevOps, AI, APIs, Kubernetes, Scaling**
+🤝 Megas for friends, momegas (monkey megas) on the web.
 
-- ⚡ Fun fact **momegas stands for monkey Megas**
+<br>
+Linkedin profile: https://www.linkedin.com/in/megaklis-vasilakis/
+
+GitHub profile: https://github.com/momegas 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
