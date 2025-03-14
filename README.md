@@ -1,7 +1,7 @@
 
 
 
-<h2 align="left">Hello 👋, I'm Megaklis Vasilakis the co-founder and CTO of Squaredev. 
+<h2 align="left">Hello 👋, I'm Megaklis Vasilakis the co-founder and CEO of Squaredev. 
 </h1>
 
 I work on machine learning engineering, DevOps and software in general. I'm mainly writing python for some years now. Before that, I was a JavaScript / Node.js guy. I also organise an AI meetup in my hometown, Patras.
