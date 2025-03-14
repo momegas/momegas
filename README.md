@@ -6,11 +6,11 @@
 
 I work on machine learning engineering, DevOps and software in general. I'm mainly writing python for some years now. Before that, I was a JavaScript / Node.js guy. I also organise an AI meetup in my hometown, Patras.
 
-I'm working on open source, mainly on Whitebox and Explainable AI repo of Squaredev (links below). Lately I also helped a bit with the Open Assistant project. In have done other OSS work here and there in the past as well.
+I love on open source, and have worked mainly on Whitebox and Explainable AI repo of Squaredev (links below). Some time ago I also helped a bit with the Open Assistant project. In have done other OSS work here and there in the past as well.
 
 <br>
 
-💬 Ask me anything about DevOps, MLOps, AI/ML, APIs, Kubernetes.
+💬 Ask me anything about AI Agents, Gen AI DevOps, MLOps, AI/ML, APIs, Kubernetes (I don't know it all of course I just like these discussions).
 
 🤝 Megas for friends, momegas (monkey megas) on the web.
 
